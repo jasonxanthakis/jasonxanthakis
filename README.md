@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Jason 👋
 
 <!--
 **jasonxanthakis/jasonxanthakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Get in touch
+- LinkedIn: _https://www.linkedin.com/in/jason-xanthakis/
+- Website: _https://jasonxanthakis-portfolio.netlify.app/
